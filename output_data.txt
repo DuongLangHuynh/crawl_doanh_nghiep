@@ -1,0 +1,501 @@
+name_comment	ceo_comment	industry_comment	tax_count
+CÔNG TY TNHH SAMSUNG ELECTRONICS VIỆT NAM THÁI NGUYÊN	Kim Dongwook	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	4601124536
+TẬP ĐOÀN DẦU KHÍ VIỆT NAM	Lê Ngọc Sơn	Thăm dò, khai thác dầu mỏ và hoạt động hỗ trợ	0100681592
+TẬP ĐOÀN XĂNG DẦU VIỆT NAM	Đào Nam Hải	Kinh doanh xăng dầu và các sản phẩm liên quan	0100107370
+CÔNG TY CP LỌC HÓA DẦU BÌNH SƠN	Bùi Ngọc Dương	Thăm dò, khai thác dầu mỏ và hoạt động hỗ trợ	4300378569
+TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI	Tào Đức Thắng	Viễn thông	0100109106
+NGÂN HÀNG NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN VIỆT NAM	Tiết Văn Thành	Ngân hàng	0100686174
+TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM	Đặng Thanh Hải	Khai thác, kinh doanh than và hoạt động hỗ trợ	5700100256
+CÔNG TY CP TẬP ĐOÀN HÒA PHÁT	Nguyễn Việt Thắng	Sản xuất, gia công kim loại, sắt thép, kim khí…	0900189284
+NGÂN HÀNG TMCP ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM	Lê Ngọc Lâm	Ngân hàng	0100150619
+TẬP ĐOÀN VINGROUP - CTCP	Nguyễn Việt Quang	Kinh doanh bất động sản	0101245486
+CÔNG TY CP ĐẦU TƯ THẾ GIỚI DI ĐỘNG	Trần Kinh Doanh	Bán lẻ điện tử, điện lạnh, viễn thông, công nghệ thông tin	0306731335
+NGÂN HÀNG TMCP CÔNG THƯƠNG VIỆT NAM	Nguyễn Hoàng Dũng	Ngân hàng	0100111948
+NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM	Phạm Quang Dũng	Ngân hàng	0100112437
+TỔNG CÔNG TY DẦU VIỆT NAM - PVOIL	Đoàn Văn Nhuộm	Thăm dò, khai thác dầu mỏ và hoạt động hỗ trợ	0305795054
+TỔNG CÔNG TY KHÍ VIỆT NAM - CTCP	Phạm Văn Phong	Thăm dò, khai thác dầu mỏ và hoạt động hỗ trợ	3500102710
+CÔNG TY CP CHĂN NUÔI C.P. VIỆT NAM	Montri Suwanposri	Sản xuất, kinh doanh thức ăn chăn nuôi	3600224423
+NGÂN HÀNG TMCP VIỆT NAM THỊNH VƯỢNG	Nguyễn Đức Vinh	Ngân hàng	0100233583
+CÔNG TY CP TẬP ĐOÀN VÀNG BẠC ĐÁ QUÝ DOJI	Đỗ Minh Đức	Bán lẻ vàng, bạc và kim loại quý khác	0100365621
+CÔNG TY CP TẬP ĐOÀN MASAN	Danny Lê	Dịch vụ khác	0303576603
+NGÂN HÀNG TMCP QUÂN ĐỘI	Phạm Như Ánh	Ngân hàng	0100283873
+CÔNG TY CP SỮA VIỆT NAM	Mai Kiều Liên	Sản xuất, chế biến và kinh doanh sữa, sản phẩm từ sữa	0300588569
+NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM	Jens Lottner	Ngân hàng	0100230800
+TẬP ĐOÀN BƯU CHÍNH VIỄN THÔNG VIỆT NAM	Huỳnh Quang Liêm	Viễn thông	0100684378
+CÔNG TY CP TẬP ĐOÀN THÀNH CÔNG	Nguyễn Anh Tuấn	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0100831174
+TẬP ĐOÀN BẢO VIỆT	Nguyễn Quang Phi	Bảo hiểm	0100111761
+CÔNG TY CP TẬP ĐOÀN HOA SEN	Trần Quốc Trí	Sản xuất, gia công kim loại, sắt thép, kim khí…	3700381324
+NGÂN HÀNG TMCP SÀI GÒN THƯƠNG TÍN	Nguyễn Đức Thạch Diễm	Ngân hàng	0301103908
+TỔNG CÔNG TY PHÁT ĐIỆN 3 - CTCP	Lê Văn Danh	Sản xuất, truyền tải, phân phối điện	3502208399
+NGÂN HÀNG TMCP Á CHÂU	Đỗ Minh Toàn	Ngân hàng	0301452948
+CÔNG TY CP FPT	Nguyễn Văn Khoa	Hoạt động thông tin khác	0101248141
+NGÂN HÀNG TMCP SÀI GÒN - HÀ NỘI	Ngô Thu Hà	Ngân hàng	1800278630
+TỔNG CÔNG TY DỊCH VỤ VIỄN THÔNG	Nguyễn Văn Tấn	Viễn thông	0106869738
+TỔNG CÔNG TY BẢO VIỆT NHÂN THỌ	Phạm Ngọc Sơn	Bảo hiểm	0102641429
+TỔNG CÔNG TY PHÁT ĐIỆN 1	Nguyễn Hữu Thịnh	Sản xuất, truyền tải, phân phối điện	5701662152
+NGÂN HÀNG TMCP PHÁT TRIỂN TP. HỒ CHÍ MINH	Phạm Quốc Thanh	Ngân hàng	0300608092
+CÔNG TY TNHH QUỐC TẾ UNILEVER VIỆT NAM	JV Raman	Sản xuất, kinh doanh hóa mỹ phẩm	0300762150
+TỔNG CÔNG TY CP BIA RƯỢU NƯỚC GIẢI KHÁT SÀI GÒN	Neo Gim Siong Bennett	Sản xuất, chế biến và kinh doanh đồ uống có cồn	0300583659
+CÔNG TY TNHH BẢO HIỂM NHÂN THỌ PRUDENTIAL VIỆT NAM	Phương Tiến Minh	Bảo hiểm	0301840443
+CÔNG TY CP VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN	Lê Trí Thông	Bán lẻ vàng, bạc và kim loại quý khác	0300521758
+CÔNG TY CP TẬP ĐOÀN GELEX	Nguyễn Văn Tuấn	Sản xuất, kinh doanh thiết bị điện	0100100512
+NGÂN HÀNG TMCP QUỐC TẾ VIỆT NAM	Hàn Ngọc Vũ	Ngân hàng	0100233488
+CÔNG TY CP BÁN LẺ KỸ THUẬT SỐ FPT	Hoàng Trung Kiên	Bán lẻ điện tử, điện lạnh, viễn thông, công nghệ thông tin	0311609355
+CÔNG TY TNHH CARGILL VIỆT NAM	Fering Thomas John	Sản xuất, kinh doanh thức ăn chăn nuôi	3600233178
+CÔNG TY CP GIẢI PHÁP THANH TOÁN VIỆT NAM	Lê Tánh	Viễn thông	0102182292
+CÔNG TY CP STAVIAN HÓA CHẤT	Nguyễn Minh Tú	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0104160054
+CENTRAL RETAIL VIETNAM (ĐẠI DIỆN BỞI CÔNG TY EBS)	Olivier Langlet	Bán lẻ hàng tiêu dùng nhanh trong siêu thị, cửa hàng tiện lợi, chợ truyền thông	0105696842
+TỔNG CÔNG TY ĐIỆN LỰC DẦU KHÍ VIỆT NAM - CTCP	Lê Như Linh	Sản xuất, truyền tải, phân phối điện	0102276173
+CÔNG TY CP TẬP ĐOÀN TRƯỜNG HẢI	Nguyễn Hùng Minh	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	3600252847
+TỔNG CÔNG TY VIỄN THÔNG MOBIFONE	Tô Mạnh Cường	Viễn thông	0100686209
+TẬP ĐOÀN CÔNG NGHIỆP CAO SU VIỆT NAM - CTCP	Lê Thanh Hưng	Trồng trọt	0301266564
+CÔNG TY CP HÀNG TIÊU DÙNG MASAN (MASAN CONSUMER)	Trương Công Thắng	Sản xuất, chế biến và kinh doanh thực phẩm khác	0302017440
+NGÂN HÀNG TMCP BƯU ĐIỆN LIÊN VIỆT	Hồ Nam Tiến	Ngân hàng	6300048638
+NGÂN HÀNG TMCP TIÊN PHONG	Nguyễn Hưng	Ngân hàng	0102744865
+TỔNG CÔNG TY CP ĐẦU TƯ QUỐC TẾ VIETTEL	Nguyễn Duy Thọ	Viễn thông	0102409426
+CÔNG TY TNHH MTV VÀNG BẠC ĐÁ QUÝ SÀI GÒN - SJC	Lê Thúy Hằng	Bán lẻ vàng, bạc và kim loại quý khác	0301045759
+CÔNG TY TNHH NƯỚC GIẢI KHÁT SUNTORY PEPSICO VIỆT NAM	Uday Shankar Sinha	Sản xuất, chế biến và kinh doanh đồ uống không cồn	0300816663
+CÔNG TY CP DƯỢC LIỆU TRUNG ƯƠNG 2	Nguyễn Công Chiến	Kinh doanh, phân phối dược phẩm, thiết bị y tế	0302597576
+CÔNG TY TNHH DE HEUS	Gabor Fluit	Sản xuất, kinh doanh thức ăn chăn nuôi	3701091716
+CÔNG TY CP THÀNH THÀNH CÔNG - BIÊN HÒA	Ông Nguyễn Thanh Ngữ	Sản xuất, chế biến và kinh doanh đường	3900244389
+TỔNG CÔNG TY PHÁT ĐIỆN 2 - CTCP	Ngô Việt Hải	Sản xuất, truyền tải, phân phối điện	1800590430
+TỔNG CÔNG TY THƯƠNG MẠI XUẤT NHẬP KHẨU THANH LỄ - CTCP	Phạm Thị Băng Trang	Kinh doanh xăng dầu và các sản phẩm liên quan	3700146458
+CÔNG TY CP TẬP ĐOÀN HÒA BÌNH MINH	Bùi Minh Lực	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	5200896375
+TỔNG CÔNG TY ĐÔNG BẮC	Phạm Ngọc Tuyển	Khai thác, kinh doanh than và hoạt động hỗ trợ	5700101468
+CÔNG TY TNHH BẢO HIỂM NHÂN THỌ DAI-ICHI VIỆT NAM	Đặng Hồng Hải	Bảo hiểm	0301851276
+CÔNG TY CP TẬP ĐOÀN INTIMEX	Đỗ Hà Nam	Sản xuất, chế biến và kinh doanh thực phẩm khác	0304421306
+TỔNG CÔNG TY BƯU ĐIỆN VIỆT NAM	Chu Quang Hào	Bưu chính, chuyển phát	0102595740
+TỔNG CÔNG TY THUỐC LÁ VIỆT NAM	Trần Sơn Châu	Sản xuất, chế biến và kinh doanh thuốc lá	0101216069
+CÔNG TY CP THẾ GIỚI SỐ	Đoàn Hồng Việt	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0302861742
+CÔNG TY CP GREENFEED VIỆT NAM	Đỗ Cao Bằng	Sản xuất, kinh doanh thức ăn chăn nuôi	1100598642
+CÔNG TY CP TÔN ĐÔNG Á	Hồ Song Ngọc	Sản xuất, gia công kim loại, sắt thép, kim khí…	3700255880
+TỔNG CÔNG TY CP BƯU CHÍNH VIETTEL	Hoàng Trung Thành	Bưu chính, chuyển phát	0104093672
+CÔNG TY TNHH CAO PHONG	Trang Sở Lương	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0302309845
+CÔNG TY TNHH NHÀ NƯỚC MTV THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU VIETTEL	Phạm Văn Hùng	Bán lẻ điện tử, điện lạnh, viễn thông, công nghệ thông tin	0104831030
+CÔNG TY CP DỊCH VỤ TỔNG HỢP SÀI GÒN	Hồ Việt Hà	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0301154821
+CÔNG TY TNHH FORD VIỆT NAM	Phạm Văn Dũng	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0800006882
+LIÊN HIỆP HỢP TÁC XÃ THƯƠNG MẠI TP. HỒ CHÍ MINH (CO.OP MART)	Nguyễn Anh Đức	Bán lẻ hàng tiêu dùng nhanh trong siêu thị, cửa hàng tiện lợi, chợ truyền thông	0301175691
+CÔNG TY TNHH BẢO HIỂM NHÂN THỌ AIA (VIỆT NAM)	Wayne Besant	Bảo hiểm	0301930337
+CÔNG TY TNHH CJ VINA AGRI	Nam Ki Don	Sản xuất, kinh doanh thức ăn chăn nuôi	1100439762
+CÔNG TY TNHH YAMAHA MOTOR VIỆT NAM	Masaki Asano	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0100774342
+TỔNG CÔNG TY PHÂN BÓN VÀ HÓA CHẤT DẦU KHÍ - CTCP	Lê Cự Tân	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	0303165480
+TẬP ĐOÀN DỆT MAY VIỆT NAM	Lê Tiến Trường	Sản xuất, kinh doanh sợi, sản phẩm dệt	0100100008
+CÔNG TY CP TẬP ĐOÀN THÉP NGUYỄN MINH	Nguyễn Minh Huy	Sản xuất, gia công kim loại, sắt thép, kim khí…	1101359647
+NGÂN HÀNG TMCP ĐÔNG NAM Á	Lê Quốc Long	Ngân hàng	0200253985
+CÔNG TY TNHH OLAM VIỆT NAM	Amit Verma	Hoạt động nông nghiệp khác	6000346337
+TỔNG CÔNG TY CẢNG HÀNG KHÔNG VIỆT NAM - CTCP	Vũ Thế Phiệt	Hoạt động khác hỗ trợ cho vận tải	0311638525
+TỔNG CÔNG TY CP DỊCH VỤ TỔNG HỢP DẦU KHÍ	Vũ Tiến Dương	Bán lẻ điện tử, điện lạnh, viễn thông, công nghệ thông tin	0300452060
+CÔNG TY TNHH NESTLÉ VIỆT NAM	Binu Jacob	Sản xuất, chế biến và kinh doanh thực phẩm khác	3600235305
+CÔNG TY CP TẬP ĐOÀN AN PHÁT HOLDINGS	Đinh Xuân Cường	Dịch vụ tài chính khác	0801210129
+CÔNG TY TNHH EXPEDITORS VIỆT NAM	Mong Pheng Koh	Vận tải đường biển	0312545104
+NGÂN HÀNG TMCP HÀNG HẢI VIỆT NAM	Nguyễn Hoàng Linh	Ngân hàng	0200124891
+TỔNG CÔNG TY TRUYỀN TẢI ĐIỆN QUỐC GIA	Nguyễn Mạnh Hùng	Sản xuất, truyền tải, phân phối điện	0102743068
+TỔNG CÔNG TY CP DỊCH VỤ KỸ THUẬT DẦU KHÍ VIỆT NAM	Lê Mạnh Cường	Thăm dò, khai thác dầu mỏ và hoạt động hỗ trợ	0100150577
+CÔNG TY CP THƯƠNG MẠI THÁI HƯNG	Nguyễn Thị Vinh	Khai thác, chế biến, kinh doanh quặng kim loại và hoạt động hỗ trợ	4600310787
+CÔNG TY CP TẬP ĐOÀN THỦY SẢN MINH PHÚ	Lê Văn Quang	Sản xuất, chế biến và kinh doanh thực phẩm tươi sống, đông lạnh	2000393273
+CÔNG TY CP PHÂN BÓN DẦU KHÍ CÀ MAU	Văn Tiến Thanh	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	2001012298
+CÔNG TY TNHH HÀO HƯNG	Thang Văn Hóa	Hoạt động công nghiệp khác	0301952517
+TỔNG CÔNG TY VẬT TƯ NÔNG NGHIỆP - CÔNG TY CỔ PHẦN	Bùi Tuấn Long	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	0100104468
+CÔNG TY CP MASAN HIGH-TECH MATERIALS	Craig Richard Bradshaw	Dịch vụ khác	0309966889
+NGÂN HÀNG TMCP PHƯƠNG ĐÔNG	Nguyễn Đình Tùng	Ngân hàng	0300852005
+CÔNG TY CP NHỰA AN PHÁT XANH	Đinh Xuân Cường	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0800373586
+CÔNG TY CP VIỄN THÔNG FPT	Hoàng Việt Anh	Viễn thông	0101778163
+TỔNG CÔNG TY HÀNG HẢI VIỆT NAM - CTCP	Nguyễn Cảnh Tĩnh	Vận tải đường biển	0100104595
+NGÂN HÀNG TMCP ĐẠI CHÚNG VIỆT NAM	Nguyễn Hoàng Nam	Ngân hàng	0101057919
+CÔNG TY CP TẬP ĐOÀN T&T	Mai Xuân Sơn	Dịch vụ tài chính khác	0100233223
+CÔNG TY CP CÔNG NGHỆ VÀ DỊCH VỤ IMEDIA	Phạm Ngọc Tú	Viễn thông	0105837941
+CÔNG TY CP XÂY DỰNG COTECCONS	Võ Hoàng Lâm	Xây dựng	0303443233
+CÔNG TY CP TẬP ĐOÀN HÓA CHẤT ĐỨC GIANG	Đào Hữu Duy Anh	Sản xuất, kinh doanh hóa mỹ phẩm	0101452588
+CÔNG TY CP VIỆT - PHÁP SẢN XUẤT THỨC ĂN GIA SÚC (PROCONCO)	Nguyễn Thị Lệ Hồng	Sản xuất, kinh doanh thức ăn chăn nuôi	3600234534
+CÔNG TY TNHH MM MEGA MARKET (VIỆT NAM)	Bruno Jousselin	Bán lẻ hàng tiêu dùng nhanh trong siêu thị, cửa hàng tiện lợi, chợ truyền thông	0302249586
+TỔNG CÔNG TY VIGLACERA - CTCP	Nguyễn Anh Tuấn	Sản xuất, kinh doanh vật liệu xây dựng	0100108173
+CÔNG TY CP ACECOOK VIỆT NAM	Kajiwara Junichi	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	0300808687
+CÔNG TY TNHH PIAGGIO VIỆT NAM	Costantino Sambuy	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	2500288968
+CÔNG TY CP TẬP ĐOÀN PAN	Nguyễn Trà My	Hoạt động nông nghiệp khác	0301472704
+NGÂN HÀNG TMCP XUẤT NHẬP KHẨU VIỆT NAM	Nguyễn Quốc Hương	Ngân hàng	0301179079
+CÔNG TY CP PVI	Nguyễn Xuân Hòa	Bảo hiểm	0100151161
+CÔNG TY CP THỰC PHẨM SỮA TH	Rami Hamad	Sản xuất, chế biến và kinh doanh sữa, sản phẩm từ sữa	0103414411
+CÔNG TY CP TẬP ĐOÀN SAO MAI	Lê Thanh Thuấn	Kinh doanh bất động sản	1600169024
+CÔNG TY TNHH ĐIỆN TỬ THÔNG MINH TCL (VIỆT NAM)	Ding, Wei	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	3702670794
+TỔNG CÔNG TY THƯƠNG MẠI SÀI GÒN - TNHH MTV	Lâm Quốc Thanh	Bán lẻ hàng tiêu dùng nhanh trong siêu thị, cửa hàng tiện lợi, chợ truyền thông	0300100037
+CÔNG TY CP CÁP ĐIỆN VÀ HỆ THỐNG LS-VINA	Kim Jong Pil	Sản xuất, kinh doanh thiết bị điện	0200117005
+NGÂN HÀNG TMCP NAM Á	Trần Ngọc Tâm	Ngân hàng	0300872315
+CÔNG TY CP VĨNH HOÀN	Nguyễn Ngô Vi Tâm	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	1400112623
+CÔNG TY CP CẢNG RAU QUẢ	Đặng Như Bình	Kho bãi, bốc xếp hàng hóa	0302336158
+CÔNG TY CP HÓA DẦU QUÂN ĐỘI (MIPEC)	Dư Cao Sơn	Kinh doanh xăng dầu và các sản phẩm liên quan	0101436307
+CÔNG TY CP TẬP ĐOÀN KIDO	Trần Lệ Nguyên	Sản xuất, chế biến và kinh doanh đường	0302705302
+CÔNG TY TNHH ĐIỆN LỰC AES MÔNG DƯƠNG	David Stone	Sản xuất, truyền tải, phân phối điện	5701384498
+CÔNG TY CP TẬP ĐOÀN LỘC TRỜI	Nguyễn Duy Thuận	Hoạt động nông nghiệp khác	1600192619
+CÔNG TY TNHH ZUELLIG PHARMA VIỆT NAM	Charles Antoine Gloor	Kinh doanh, phân phối dược phẩm, thiết bị y tế	0100915699
+CÔNG TY CP ĐẦU TƯ THÁI BÌNH	Nguyễn Đức Thuấn	Sản xuất, kinh doanh sản phẩm da giầy	3700148737
+CÔNG TY CP TẬP ĐOÀN DABACO VIỆT NAM	Nguyễn Khắc Thảo	Sản xuất, kinh doanh thức ăn chăn nuôi	2300105790
+CÔNG TY CP DÂY CÁP ĐIỆN VIỆT NAM	Lê Quang Định	Sản xuất, kinh doanh thiết bị điện	0300381564
+CÔNG TY CP ĐẦU TƯ XÂY DỰNG RICONS	Trần Quang Quân	Xây dựng	0303527596
+CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ PHÁT TIẾN	Hồ Vân Phú	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0301049150
+CÔNG TY CP PHÂN PHỐI KHÍ THẤP ÁP DẦU KHÍ VIỆT NAM	Trần Thanh Nam	Kinh doanh xăng dầu và các sản phẩm liên quan	0304998686
+CÔNG TY CP SẢN XUẤT THÉP VINA ONE	Huỳnh Nghĩa Thiện	Sản xuất, gia công kim loại, sắt thép, kim khí…	1100549268
+TỔNG CÔNG TY BẢO HIỂM BẢO VIỆT	Nguyễn Xuân Việt	Bảo hiểm	0101527385
+NGÂN HÀNG TNHH MTV SHINHAN VIỆT NAM	Kang Gew Won	Ngân hàng	0309103635
+CÔNG TY CP ĐẦU TƯ XÂY DỰNG NEWTECONS	Võ Thanh Liêm	Xây dựng	0303103212
+CÔNG TY TNHH CALOFIC	Vũ Văn Phú	Sản xuất, chế biến và kinh doanh dầu ăn, mỡ động thực vật	5700101362
+CÔNG TY TNHH SHOPEE	Trần Tuấn Anh	Hoạt động thông tin khác	0106773786
+NGÂN HÀNG TMCP BẮC Á	Thái Hương	Ngân hàng	2900325526
+CÔNG TY CP DỆT RENZE	Zhou Bo Qin	Sản xuất, kinh doanh sợi, sản phẩm dệt	3600852146
+CÔNG TY CP GIAO NHẬN VẬN TẢI CON ONG	Đinh Hữu Thạnh	Hoạt động khác hỗ trợ cho vận tải	0303482440
+TỔNG CÔNG TY LƯƠNG THỰC MIỀN BẮC	Bùi Thị Thanh Tâm	Sản xuất, chế biến và kinh doanh gạo, ngũ cốc, sản phẩm nghiền, đồ khô	0100102608
+CÔNG TY CỔ PHẦN TẬP ĐOÀN BIM (BIM GROUP)	Đoàn Quốc Huy	Kinh doanh bất động sản	5701942544
+CÔNG TY TNHH UNI-PRESIDENT VIỆT NAM	Chen I Shen	Sản xuất, kinh doanh thức ăn chăn nuôi	3700306630
+CÔNG TY TNHH AEON VIỆT NAM	Yasuo Nishitohge	Bán lẻ hàng tiêu dùng nhanh trong siêu thị, cửa hàng tiện lợi, chợ truyền thông	0311241512
+TỔNG CÔNG TY ĐẦU TƯ VÀ KINH DOANH VỐN NHÀ NƯỚC-CÔNG TY TNHH	Nguyễn Chí Thành	Dịch vụ tài chính khác	0101992921
+CÔNG TY CP TỔNG CÔNG TY TÍN NGHĨA	Trần Trung Tuấn	Kinh doanh bất động sản	3600283394
+CÔNG TY TNHH THỰC PHẨM ORION VINA	Kang Weon Kee	Sản xuất, chế biến và kinh doanh bánh kẹo	3700667933
+CÔNG TY TNHH DỊCH VỤ VÀ THƯƠNG MẠI MESA	Lưu Tuyết Mai	Sản xuất, kinh doanh đồ dùng gia đình	0100520429
+TỔNG CÔNG TY CP XUẤT NHẬP KHẨU VÀ XÂY DỰNG VIỆT NAM	Nguyễn Xuân Đông	Xây dựng	0100105616
+NGÂN HÀNG TMCP AN BÌNH	Lê Hải	Ngân hàng	0301412222
+CÔNG TY CP CƠ ĐIỆN LẠNH	Huỳnh Thanh Hải	Hoạt động xây dựng khác	0300741143
+TỔNG CÔNG TY CP VẬN TẢI DẦU KHÍ	Nguyễn Duyên Hiếu	Vận tải đường biển	0302743192
+CÔNG TY CP THÉP TVP	Ninh Thị Bích Thùy	Sản xuất, gia công kim loại, sắt thép, kim khí…	1100598716
+CÔNG TY CP TẬP ĐOÀN ECOPARK	Trần Quốc Việt	Kinh doanh bất động sản	0101395308
+CÔNG TY CP GIAO NHẬN VÀ VẬN CHUYỂN IN DO TRẦN	Trần Tuấn Anh	Hoạt động khác hỗ trợ cho vận tải	0301909173
+CÔNG TY CP XI MĂNG VICEM HÀ TIÊN	Lưu Đình Cường	Sản xuất, kinh doanh vật liệu xây dựng	0301446422
+TỔNG CÔNG TY CP CÔNG TRÌNH VIETTEL	Phạm Đình Trường	Hoạt động xây dựng khác	0104753865
+CÔNG TY CP HỮU HẠN VEDAN VIỆT NAM	NI CHIH HAO	Sản xuất, chế biến và kinh doanh thực phẩm khác	3600239719
+CÔNG TY CP XÂY DỰNG CENTRAL	Trần Quang Tuấn	Xây dựng	0314476689
+CÔNG TY TNHH LOUIS DREYFUS COMMODITIES VIỆT NAM	Eric Gerard Leleu	Sản xuất, chế biến và kinh doanh thực phẩm tươi sống, đông lạnh	5900424466
+TỔNG CÔNG TY SÔNG ĐÀ - CTCP	Hồ Văn Dũng	Xây dựng	0100105870
+CÔNG TY CP DỊCH VỤ PHÂN PHỐI TỔNG HỢP DẦU KHÍ	Vũ Tiến Dương	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0305482862
+CÔNG TY CP ĐIỆN LỰC DẦU KHÍ NHƠN TRẠCH 2	Ngô Đức Nhân	Sản xuất, truyền tải, phân phối điện	3600897316
+CÔNG TY CP PHÂN BÓN BÌNH ĐIỀN	Ngô Văn Đông	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	0302975517
+TỔNG CÔNG TY HÓA DẦU PETROLIMEX - CTCP	Lê Quang Tuấn	Kinh doanh xăng dầu và các sản phẩm liên quan	0101463614
+TỔNG CÔNG TY CP BIA - RƯỢU - NƯỚC GIẢI KHÁT HÀ NỘI	Ngô Quế Lâm	Sản xuất, chế biến và kinh doanh đồ uống có cồn	0101376672
+CÔNG TY CP ĐẦU TƯ TẬP ĐOÀN TÂN Á ĐẠI THÀNH	Nguyễn Duy Chính	Sản xuất, kinh doanh máy móc, sản phẩm cơ khí khác	0108623987
+CÔNG TY CP CHỨNG KHOÁN VPS	Nguyễn Lâm Dũng	Chứng khoán	0104979904
+CÔNG TY CP MEDIAMART VIỆT NAM	Lê Quang Vũ	Bán lẻ điện tử, điện lạnh, viễn thông, công nghệ thông tin	0102516308
+CÔNG TY CP GIAO HÀNG TIẾT KIỆM	Phạm Hồng Quân	Bưu chính, chuyển phát	0106181807
+TỔNG CÔNG TY CP MAY VIỆT TIẾN	Bùi Văn Tiến	Sản xuất, kinh doanh trang phục	0300401524
+CÔNG TY CP ĐƯỜNG QUẢNG NGÃI	Võ Thành Đàng	Sản xuất, chế biến và kinh doanh đường	4300205943
+CÔNG TY CP ỐNG THÉP VIỆT - ĐỨC VG PIPE	Nguyễn Hữu Thể	Sản xuất, gia công kim loại, sắt thép, kim khí…	2500267703
+CÔNG TY CP TẬP ĐOÀN PC1	Trịnh Văn Tuấn	Hoạt động xây dựng khác	0100100745
+CÔNG TY CP QUỐC TẾ SƠN HÀ	Đào Nam Phong	Sản xuất, kinh doanh máy móc, sản phẩm cơ khí khác	0100776445
+CÔNG TY CP THƯƠNG MẠI DỊCH VỤ DẦU KHÍ HẢI PHÁT	Phạm Thị Thu Tâm	Kinh doanh xăng dầu và các sản phẩm liên quan	3603262480
+CÔNG TY CP GIAO NHẬN TOÀN CẦU DHL (VIỆT NAM)	Laurence Cheung	Hoạt động khác hỗ trợ cho vận tải	0305707643
+CÔNG TY CP GIAO DỊCH HÀNG HÓA TÂY NGUYÊN	Đỗ Văn Thắng	Sản xuất, chế biến và kinh doanh đồ uống không cồn	6001552050
+CÔNG TY CP ĐẦU TƯ VÀ PHÁT TRIỂN ĐA QUỐC GIA I.D.I	Lê Văn Chung	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	0303141296
+TỔNG CÔNG TY KHÁNH VIỆT	Lê Tiến Anh	Sản xuất, chế biến và kinh doanh thuốc lá	4200486169
+CÔNG TY CP THỦY SẢN SÓC TRĂNG	Trần Văn Phẩm	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	2200108445
+NGÂN HÀNG TNHH MTV HSBC (VIỆT NAM)	Sumit Dutta	Ngân hàng	0301232798
+CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ THÀNH TÍN	Trần Thanh Nga	Sản xuất, chế biến và kinh doanh gạo, ngũ cốc, sản phẩm nghiền, đồ khô	2200208834
+TỔNG CÔNG TY THƯƠNG MẠI KỸ THUẬT VÀ ĐẦU TƯ - CTCP	Huỳnh Đức Trường	Kinh doanh xăng dầu và các sản phẩm liên quan	0300649476
+CÔNG TY CP TẬP ĐOÀN CÔNG NGHỆ CMC	Nguyễn Trung Chính	Hoạt động thông tin khác	0100244112
+TỔNG CÔNG TY IDICO - CTCP	Đặng Chính Trung	Xây dựng	0302177966
+CÔNG TY TÀI CHÍNH TNHH MB SHINSEI	Lê Quốc Ninh	Dịch vụ tài chính khác	0107349019
+NGÂN HÀNG TMCP VIỆT NAM THƯƠNG TÍN	Bà Trần Tuấn Anh	Ngân hàng	2200269805
+CÔNG TY CP DẦU THỰC VẬT TƯỜNG AN	Bùi Thanh Tùng	Sản xuất, chế biến và kinh doanh dầu ăn, mỡ động thực vật	0303498754
+CÔNG TY CP ĐẠI TÂN VIỆT	Didier Lachize	Sản xuất, chế biến và kinh doanh thực phẩm khác	0302505776
+CÔNG TY TNHH VĨNH HIỆP	Thái Như Hiệp	Sản xuất, chế biến và kinh doanh gạo, ngũ cốc, sản phẩm nghiền, đồ khô	5900315114
+CÔNG TY TNHH MTV HERBALIFE VIỆT NAM	Vũ Văn Thắng	Sản xuất, chế biến và kinh doanh thực phẩm khác	0309069208
+CÔNG TY CP ĐẦU TƯ HẠ TẦNG KỸ THUẬT TP. HỒ CHÍ MINH	Lê Quốc Bình	Dịch vụ tài chính khác	0302483177
+CÔNG TY TNHH THƯƠNG MẠI VHC (SIÊU THỊ ĐIỆN MÁY HC)	Nguyễn Hoàng Hải	Bán lẻ điện tử, điện lạnh, viễn thông, công nghệ thông tin	0105690657
+TẬP ĐOÀN TRUNG NGUYÊN LEGEND	Đặng Lê Nguyên Vũ	Sản xuất, chế biến và kinh doanh đồ uống không cồn	0304324655
+CÔNG TY TNHH SIAM CITY CEMENT (VIETNAM) (INSEE)	Eamon Ginley	Sản xuất, kinh doanh vật liệu xây dựng	0300608568
+CÔNG TY CP NÔNG SẢN THỰC PHẨM QUẢNG NGÃI	Trần Ngọc Hải	Sản xuất, chế biến và kinh doanh gạo, ngũ cốc, sản phẩm nghiền, đồ khô	4300321643
+CÔNG TY CP TẬP ĐOÀN BAMBOO CAPITAL	Nguyễn Thế Tài	Kinh doanh bất động sản	0311315789
+CÔNG TY CP Y DƯỢC PHẨM VIMEDIMEX	Nguyễn Quốc Cường	Kinh doanh, phân phối dược phẩm, thiết bị y tế	0300479760
+CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI THÉP NGUYỄN MINH	Nguyễn Minh Viễn	Sản xuất, gia công kim loại, sắt thép, kim khí…	0301805248
+CÔNG TY CP NÔNG NGHIỆP BAF VIỆT NAM	Bùi Hương Giang	Hoạt động nông nghiệp khác	0107795944
+CÔNG TY CP THƯƠNG MẠI DỊCH VỤ CỔNG VÀNG	Đào Thế Vinh	Ẩm thực	0102721191
+CÔNG TY CP KINH DOANH KHÍ MIỀN NAM	Nguyễn Ngọc Luận	Kinh doanh xăng dầu và các sản phẩm liên quan	0305097236
+CÔNG TY CP PHÚ TÀI	Lê Văn Thảo	Sản xuất, kinh doanh vật liệu xây dựng	4100259236
+CÔNG TY CP TẬP ĐOÀN KIM TÍN	Trịnh Hữu Kiên	Hoạt động công nghiệp khác	0303738780
+CÔNG TY CP BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG	Nguyễn Đoàn Thăng	Sản xuất, kinh doanh thiết bị điện	0101526991
+CÔNG TY TNHH BẢO HIỂM NHÂN THỌ MB AGEAS	Vũ Hồng Phú	Bảo hiểm	0107520795
+CÔNG TY TNHH URC VIỆT NAM	Mr.Jean-Pierre “Jai” Gamboa	Sản xuất, chế biến và kinh doanh bánh kẹo	3700549827
+CÔNG TY CP THƯƠNG MẠI KIÊN GIANG	Phạm Văn Hoàng	Kinh doanh xăng dầu và các sản phẩm liên quan	1700523208
+CÔNG TY CP CHỨNG KHOÁN VNDIRECT	Nguyễn Vũ Long	Chứng khoán	0102065366
+TỔNG CÔNG TY CẤP NƯỚC SÀI GÒN - TNHH MTV	Hồ Văn Lâm	Cung cấp, kinh doanh nước	0301129367
+TỔNG CÔNG TY XÂY DỰNG SỐ 1 - CTCP	Lê Bảo Anh	Xây dựng	0301429113
+CÔNG TY CP TETRA PAK VIỆT NAM	Fehmi Nejat Caliskan	Sản xuất, kinh doanh máy móc, sản phẩm cơ khí khác	0302803331
+CÔNG TY CP DỊCH VỤ Ô TÔ HÀNG XANH	Nguyễn Thị Ngọc Bích	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0302000126
+CÔNG TY TNHH HỆ THỐNG THÔNG TIN FPT (FPT IS)	Nguyễn Hoàng Minh	Hoạt động thông tin khác	0104128565
+CÔNG TY CP ĐẦU TƯ & PHÁT TRIỂN CÔNG NGHỆ QUỐC GIA ADG	Đặng Vũ Toàn	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0102023052
+CÔNG TY TNHH MTV DỊCH VỤ CƠ KHÍ HÀNG HẢI PTSC	Đồng Xuân Thắng	Công nghiệp đóng tàu và thuyền	3500790168
+CÔNG TY TNHH THƯƠNG MẠI KHATOCO	Nguyễn Đình Thạch	Sản xuất, chế biến và kinh doanh thuốc lá	4200485207
+CÔNG TY TNHH CÔNG NGHIỆP CHÍNH XÁC VIỆT NAM 1	Chao Wen Hsiang	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	2500213190
+CÔNG TY TNHH MTV XUẤT NHẬP KHẨU 2/9 ĐẮK LẮK	Lê Tiến Hùng	Sản xuất, chế biến và kinh doanh đồ uống không cồn	6000234538
+CÔNG TY CP Á ĐÔNG ADG	Hồ Hoàng Bảo Vinh	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0308113486
+CÔNG TY CP CHỨNG KHOÁN SSI	Nguyễn Hồng Nam	Chứng khoán	0301955155
+CÔNG TY CP THƯƠNG MẠI XUẤT NHẬP KHẨU THIÊN NAM	Vương Quang Diệu	Kinh doanh kim loại, sắt thép, kim khí…	0301172041
+CÔNG TY CP ĐẦU TƯ SÀI GÒN VRG	Trần Mạnh Hùng	Xây dựng	0305268812
+CÔNG TY CP CITY AUTO	Nguyễn Đăng Hoàng	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0307979603
+CÔNG TY TÀI CHÍNH TNHH HD SAISON	Nguyễn Hữu Nhân	Dịch vụ tài chính khác	0304990133
+NGÂN HÀNG TMCP VIỆT Á	Nguyễn Văn Trọng	Ngân hàng	0302963695
+CÔNG TY TNHH TẬP ĐOÀN XÂY DỰNG DELTA	Trần Thành Vinh	Xây dựng	0100512717
+TỔNG CÔNG TY ĐẦU TƯ PHÁT TRIỂN ĐƯỜNG CAO TỐC VN (C.TY TNHH MTV	Mai Tuấn Anh	Dịch vụ khác	0101573511
+CÔNG TY CP TẬP ĐOÀN IPC	Phí Phong Hà	Kinh doanh kim loại, sắt thép, kim khí…	0102055583
+CÔNG TY TNHH MTV TỔNG CÔNG TY 28	Đỗ Tuấn Anh	Sản xuất, kinh doanh sợi, sản phẩm dệt	0300516772
+CÔNG TY TNHH MTV THÉP VAS AN HƯNG TƯỜNG	Huỳnh Thị Quỳnh Thư	Sản xuất, gia công kim loại, sắt thép, kim khí…	3700256179
+CÔNG TY CP ĐẦU TƯ TỔNG HỢP HÀ NỘI	Nguyễn Đại Hải	Kinh doanh bất động sản	0102287094
+CÔNG TY TNHH FRIESLANDCAMPINA VIỆT NAM	Berend van Wel	Sản xuất, chế biến và kinh doanh sữa, sản phẩm từ sữa	3700229344
+NGÂN HÀNG TMCP KIÊN LONG	Trần Ngọc Minh	Ngân hàng	1700197787
+CÔNG TY CP NHỰA THIẾU NIÊN TIỀN PHONG	Chu Văn Phương	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0200167782
+CÔNG TY CP NHỰA BÌNH MINH	Chaowalit Treejak	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0301464823
+TỔNG CÔNG TY CƠ KHÍ GIAO THÔNG VẬN TẢI SÀI GÒN - TNHH MTV	Trần Quốc Toản	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0300481551
+NGÂN HÀNG TMCP BẢN VIỆT	Ngô Quang Trung	Ngân hàng	0301378892
+CÔNG TY CP DÂY VÀ CÁP ĐIỆN THƯỢNG ĐÌNH	Phạm Lương Hòa	Sản xuất, kinh doanh thiết bị điện	0100892628
+CÔNG TY TNHH ĐẦU TƯ XÂY DỰNG UNICONS	Trần Văn Lâm	Xây dựng	0304472276
+TỔNG CÔNG TY BẢO HIỂM PVI	Phạm Anh Đức	Bảo hiểm	0105402531
+CÔNG TY CP THỰC PHẨM SAO TA	Phạm Hoàng Việt	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	2200208753
+CÔNG TY CP VICOSTONE	Phạm Trí Dũng	Sản xuất, kinh doanh vật liệu xây dựng	0500469512
+CÔNG TY CP MONDELEZ KINH ĐÔ VIỆT NAM	Hemant Kumar Rupani	Sản xuất, chế biến và kinh doanh bánh kẹo	3700599641
+CÔNG TY CP SẢN XUẤT NHỰA DUY TÂN	Chamornwut Tamnarnchit	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0306151768
+CÔNG TY TNHH THƯƠNG MẠI VÀ CÔNG NGHIỆP MỸ VIỆT	Nguyễn Minh Tuấn	Sản xuất, kinh doanh máy móc, sản phẩm cơ khí khác	0900239753
+TỔNG CÔNG TY DƯỢC VIỆT NAM - CTCP	Hàn Thị Khánh Vinh	Kinh doanh, phân phối dược phẩm, thiết bị y tế	0100109385
+CÔNG TY TNHH XUẤT NHẬP KHẨU CÀ PHÊ MINH TIẾN	Nguyễn Thị Hồng Minh	Sản xuất, chế biến và kinh doanh thực phẩm khác	0101013887
+CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT BẠC LIÊU	Nguyễn Ngọc Thuý	Dịch vụ vui chơi, giải trí	1900135322
+CÔNG TY CP MAY SÔNG HỒNG	Bùi Đức Thịnh	Sản xuất, kinh doanh trang phục	0600333307
+CÔNG TY CP ĐẦU TƯ THƯƠNG MẠI XNK VIỆT PHÁT	Nguyễn Văn Đức	Khai thác, chế biến, kinh doanh quặng kim loại và hoạt động hỗ trợ	0200826844
+CÔNG TY CP ABC VIỆT NAM	Nguyễn Thị Dịu	Sản xuất, kinh doanh thức ăn chăn nuôi	0900254448
+CÔNG TY CP CÁP ĐIỆN THỊNH PHÁT	Kosit Pugasab	Sản xuất, kinh doanh thiết bị điện	0315767095
+TỔNG CÔNG TY CP PHÁT TRIỂN KHU CÔNG NGHIỆP	Trần Thanh Hải	Kinh doanh bất động sản	3600335363
+CÔNG TY CP CÔNG NGHIỆP CAO SU MIỀN NAM	Phạm Hồng Phú	Sản xuất, kinh doanh cao su và sản phẩm từ cao su	0300419930
+CÔNG TY TNHH ĐẦU TƯ SẢN XUẤT THƯƠNG MẠI DỊCH VỤ PHAN MINH	Phan Hùng Minh	Sản xuất, chế biến và kinh doanh gạo, ngũ cốc, sản phẩm nghiền, đồ khô	0303283290
+CÔNG TY CỔ PHẦN TẬP ĐOÀN NOVA CONSUMER	Nguyễn Quang Phi Tín	Nông nghiệp	0301447257
+CÔNG TY LIÊN DOANH SẢN XUẤT THÉP VINAUSTEEL	Ngô Đình Khôi	Sản xuất, gia công kim loại, sắt thép, kim khí…	0200108811
+CÔNG TY CP TẬP ĐOÀN VINACAM	Vũ Duy Hải	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	0303800051
+TỔNG CÔNG TY CÔNG NGHIỆP MỎ VIỆT BẮC TKV - CTCP	Bùi Trần Đông	Khai thác, kinh doanh than và hoạt động hỗ trợ	0100100015
+CÔNG TY TNHH BẢO HIỂM NHÂN THỌ CHUBB VIỆT NAM	Nguyễn Hồng Sơn	Bảo hiểm	0303845969
+CÔNG TY CP CÁN THÉP THÁI TRUNG	Trần Tuấn	Sản xuất, gia công kim loại, sắt thép, kim khí…	4600451322
+CÔNG TY LIÊN DOANH TNHH NIPPON EXPRESS (VIỆT NAM)	Takushi Mogi	Hoạt động khác hỗ trợ cho vận tải	0302065148
+CÔNG TY CP VẬT TƯ - TKV	Tạ Quang Tuấn	Sản xuất, kinh doanh máy móc, sản phẩm cơ khí khác	5700100707
+CÔNG TY CP TẬP ĐOÀN THÉP TIẾN LÊN	Phạm Thị Hồng	Kinh doanh kim loại, sắt thép, kim khí…	3600512830
+CÔNG TY CP XĂNG DẦU TÍN NGHĨA	Trần Thanh Tùng	Kinh doanh xăng dầu và các sản phẩm liên quan	3601038204
+CÔNG TY TNHH THÀNH LỢI	Hà Kiến Lai	Kinh doanh kim loại, sắt thép, kim khí…	0301899694
+CÔNG TY CP DƯỢC HẬU GIANG	Đoàn Đình Duy Khương	Sản xuất dược phẩm, thiết bị y tế	1800156801
+CÔNG TY CP PHÚC SINH	Phan MinhThông	Sản xuất, chế biến và kinh doanh đồ uống không cồn	0302401061
+CÔNG TY CP HANACANS	Hidetaka Makabe	Sản xuất, kinh doanh máy móc, sản phẩm cơ khí khác	2300372796
+CÔNG TY TNHH LE LONG VIỆT NAM	Lee Jui Chun	Sản xuất, kinh doanh thiết bị điện	1100102656
+CÔNG TY CP CHỨNG KHOÁN KỸ THƯƠNG	Nguyễn Thị Thu Hiền	Chứng khoán	0102935813
+CÔNG TY TNHH SANOFI AVENTIS VIỆT NAM	Haissam Chraiteh	Sản xuất dược phẩm, thiết bị y tế	0300782774
+TỔNG CÔNG TY CP DỆT MAY HOÀ THỌ	Nguyễn Đức Trị	Sản xuất, kinh doanh trang phục	0400101556
+CÔNG TY TNHH BẢO HIỂM NHÂN THỌ GENERALI VIỆT NAM	Nguyễn Phương Anh	Bảo hiểm	0310879824
+TỔNG CÔNG TY TRUYỀN THÔNG (VNPT-MEDIA)	Dương Thành Long	Viễn thông	0106873188
+CÔNG TY CP ĐẦU TƯ THÀNH THÀNH CÔNG	Huỳnh Bích Ngọc	Sản xuất, chế biến và kinh doanh đường	0301466073
+CÔNG TY TNHH NHÀ NƯỚC MTV XỔ SỐ KIẾN THIẾT CẦN THƠ	Nguyễn Thị Ánh Xuân	Dịch vụ vui chơi, giải trí	1800157562
+CÔNG TY CP NAM VIỆT	Doãn Tới	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	1600168736
+CÔNG TY TNHH BẢO HIỂM HANWHA LIFE VIỆT NAM	Hwang Jun Hwan	Bảo hiểm	0305774706
+CÔNG TY TNHH TOTO VIỆT NAM	Yamasaki Masao	Sản xuất, kinh doanh vật liệu xây dựng	0101225306
+CÔNG TY CP THANH TOÁN QUỐC GIA VIỆT NAM	Nguyễn Tú Anh	Tài chính	0101517122
+CÔNG TY CP XÂY DỰNG VÀ ĐẦU TƯ THƯƠNG MẠI HOÀNG HÀ	Hoàng Hữu Huỳnh	Bán lẻ điện tử, điện lạnh, viễn thông, công nghệ thông tin	0106713191
+TỔNG CÔNG TY CP BẢO MINH	Vũ Anh Tuấn	Bảo hiểm	0300446973
+CÔNG TY CP VẬT TƯ XĂNG DẦU (COMECO)	Lê Tấn Thương	Kinh doanh xăng dầu và các sản phẩm liên quan	0300450673
+CÔNG TY CP ĐẦU TƯ NAM LONG	Trần Xuân Ngọc	Kinh doanh bất động sản	0301438936
+CÔNG TY TNHH THƯƠNG MẠI THÉP ĐÔNG HẢI	Phạm Ngọc Triệu	Kinh doanh kim loại, sắt thép, kim khí…	0314940893
+CÔNG TY CP MASCOPEX	Ngô Xuân Nam	Sản xuất, chế biến và kinh doanh thực phẩm tươi sống, đông lạnh	4200236666
+CÔNG TY CP THAIHOLDINGS	Nguyễn Văn Dũng	Thăm dò, khai thác dầu mỏ và hoạt động hỗ trợ	0105202998
+CÔNG TY CP ĐẦU TƯ XÂY DỰNG SOL E&C	Lê Chí Trung	Xây dựng	0313541575
+TỔNG CÔNG TY MAY NHÀ BÈ - CTCP	Phạm Phú Cường	Sản xuất, kinh doanh trang phục	0300398889
+CÔNG TY CP GỖ AN CƯỜNG	Lê Đức Nghĩa	Sản xuất, kinh doanh gỗ, sản phẩm từ gỗ và nội thất	3700748131
+TỔNG CÔNG TY MAY 10 - CTCP	Thân Đức Việt	Sản xuất, kinh doanh trang phục	0100101308
+CÔNG TY TNHH DỆT SỢI CONTINENTAL	Du Li Xin	Sản xuất, kinh doanh sợi, sản phẩm dệt	3901203321
+CÔNG TY CP QUỐC TẾ SAMNEC	Đặng Minh Sơn	Bán lẻ điện tử, điện lạnh, viễn thông, công nghệ thông tin	0200591141
+CÔNG TY TNHH MTV CÔNG NGHỆ TIN HỌC VIỄN SƠN	Ngô Thị Bích Thuỷ	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0302866490
+CÔNG TY TNHH PHÁT TRIỂN PHÚ MỸ HƯNG	Tseng Fan Chih	Kinh doanh bất động sản	0300604002
+CÔNG TY CP THƯƠNG NGHIỆP CÀ MAU	Nguyễn Thị Việt Ánh	Bán lẻ hàng tiêu dùng nhanh trong siêu thị, cửa hàng tiện lợi, chợ truyền thông	2000110221
+CÔNG TY CP THƯƠNG MẠI HIỆP HƯƠNG	Trương Công Hiệp	Khai thác, chế biến, kinh doanh quặng kim loại và hoạt động hỗ trợ	0100953567
+CÔNG TY CP TẬP ĐOÀN VITTO	Nguyễn Xuân Quang	Sản xuất, kinh doanh vật liệu xây dựng	2500578360
+TỔNG CÔNG TY 319	Nguyễn Minh Khiêm	Xây dựng	0100108984
+CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT SÓC TRĂNG	Lê Văn Khanh	Dịch vụ vui chơi, giải trí	2200108572
+CÔNG TY TNHH BẢO HIỂM NHÂN THỌ CATHAY VIET NAM	Lee Hsun Yu	Bảo hiểm	0305365284
+CÔNG TY CP DỆT MAY - ĐẦU TƯ - THƯƠNG MẠI THÀNH CÔNG	JUNG SUNG KWAN	Sản xuất, kinh doanh trang phục	0301446221
+CÔNG TY CP SẢN XUẤT VÀ THƯƠNG MẠI P.P	Phan Thị Thu Hương	Hoạt động công nghiệp khác	0101437981
+CÔNG TY TNHH THƯƠNG MẠI XUẤT NHẬP KHẨU VIỆT HÀN	Phạm Thị Yến	Sản xuất, kinh doanh thiết bị điện	0101325854
+CÔNG TY CP THƯƠNG MẠI THÀNH THÀNH CÔNG	Phan Vũ Hùng	Sản xuất, chế biến và kinh doanh đường	3700594361
+CÔNG TY CP TẬP ĐOÀN SUNHOUSE	Nguyễn Xuân Phú	Sản xuất, kinh doanh đồ dùng gia đình	0101976905
+CÔNG TY CP TẬP ĐOÀN PHƯỢNG HOÀNG XANH A&A	Lê Thị Minh Thảo	Sản xuất, kinh doanh vật liệu xây dựng	0104961939
+TỔNG CÔNG TY DU LỊCH SÀI GÒN - TNHH MTV (SAIGONTOURIST)	Nguyễn Bình Minh	Ẩm thực	0300625210
+CÔNG TY TNHH PERFETTI VAN MELLE (VIỆT NAM)	Sharma Nikhil	Sản xuất, chế biến và kinh doanh bánh kẹo	3700698272
+CÔNG TY CP ĐẦU TƯ PHÁT TRIỂN MÁY VIỆT NAM	Nguyễn Vũ Trụ	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0104498100
+NGÂN HÀNG TMCP BẢO VIỆT	Cao Nam Giang	Ngân hàng	0103126572
+CÔNG TY TNHH CÔNG NGHỆ HP VIỆT NAM	Trần Thị Minh Thuận	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0300539709
+CÔNG TY CP DU LỊCH VÀ TIẾP THỊ GIAO THÔNG VẬN TẢI VIỆT NAM - VIETRAVEL	Trần Đoàn Thế Duy	Du lịch	0300465937
+CÔNG TY CP TẬP ĐOÀN DẦU KHÍ AN PHA	Trần Minh Loan	Kinh doanh xăng dầu và các sản phẩm liên quan	0303224471
+TỔNG CÔNG TY GAS PETROLIMEX - CTCP	Nguyễn Hữu Quang	Kinh doanh xăng dầu và các sản phẩm liên quan	0101447725
+CÔNG TY TNHH SUNJIN VINA	Lee Ik Mo	Sản xuất, kinh doanh thức ăn chăn nuôi	3600665280
+CÔNG TY CP CƠ KHÍ XÂY DỰNG THƯƠNG MẠI ĐẠI DŨNG	Trịnh Tiến Dũng	Dịch vụ khác	0301932246
+CÔNG TY CP UNIBEN	Vũ Tiến Dũng	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	0301442989
+CÔNG TY CP VẬT TƯ HẬU GIANG	Mai Bảo Ngọc	Sản xuất, kinh doanh vật liệu xây dựng	1800506679
+CÔNG TY CP PHÁT HÀNH SÁCH TP. HỒ CHÍ MINH - FAHASA	Phạm Nam Thắng	Bán lẻ sách, báo, tạp chí, văn phòng phẩm	0304132047
+TỔNG CÔNG TY CP BẢO HIỂM QUÂN ĐỘI	Ông Uông Đông Hưng- chủ tịch	Bảo hiểm	0102385623
+CÔNG TY CP ĐÔNG HẢI BẾN TRE	Lê Bá Phương	Sản xuất, kinh doanh giấy và các sản phẩm từ giấy	1300358260
+CÔNG TY CP GEMADEPT	Nguyễn Thanh Bình	Vận tải đường biển	0301116791
+CÔNG TY CP NHỰA CHÂU ÂU	Hoàng Quốc Huy	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0700253609
+CÔNG TY CP TẬP ĐOÀN HOÀNG LONG	Nguyễn Quốc Đạo	Khai thác, nuôi trồng thủy sản	1100414052
+CÔNG TY CP CÔNG NGHIỆP VĨNH TƯỜNG	Trần Đức Huy	Sản xuất, kinh doanh vật liệu xây dựng	0304075529
+CÔNG TY CP DATVIET VAC GROUP HOLDINGS	Đinh Bá Thành	Quảng cáo và nghiên cứu thị trường	0315744468
+CÔNG TY CP CHỨNG KHOÁN TP. HỒ CHÍ MINH	Johan Nyvene	Chứng khoán	0302910950
+CÔNG TY CP PIN ẮC QUY MIỀN NAM	Trần Thanh Văn	Sản xuất, kinh doanh thiết bị điện	0300405462
+CÔNG TY CP VIỆT NAM KỸ NGHỆ SÚC SẢN (VISSAN)	Nguyễn Ngọc An	Sản xuất, chế biến và kinh doanh thực phẩm tươi sống, đông lạnh	0300105356
+CÔNG TY TNHH THƯƠNG MẠI TỔNG HỢP TUẤN VIỆT	Lê Thị Nữ	Sản xuất, chế biến và kinh doanh đường	3100261120
+CÔNG TY TNHH DINH DƯỠNG Á CHÂU (VN)	Su Meng Chih	Sản xuất, kinh doanh thức ăn chăn nuôi	3600233805
+CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI SỮA	Lưu Thị Ngọc Mai	Sản xuất, chế biến và kinh doanh thực phẩm khác	0106933743
+CÔNG TY TNHH MTV APATIT VIỆT NAM	Nguyễn Tiến Cường	Khai khoáng khác và kinh doanh các sản phẩm khác từ khai khoáng	5300100276
+CÔNG TY CP TRANSIMEX	Lê Duy Hiệp	Hoạt động khác hỗ trợ cho vận tải	0301874259
+CÔNG TY TNHH JINYU (VIỆT NAM) TIRE	Chang, Xianxu	Sản xuất, kinh doanh cao su và sản phẩm từ cao su	3901294745
+CÔNG TY CP DẦU THỰC VẬT TÂN BÌNH	Huỳnh Trung Lập	Sản xuất, chế biến và kinh doanh dầu ăn, mỡ động thực vật	0303587122
+CÔNG TY TNHH XÂY DỰNG HOA VIỆT	Yao Zi Yan	Xây dựng	0101471855
+TỔNG CÔNG TY ĐẦU TƯ PHÁT TRIỂN NHÀ VÀ ĐÔ THỊ (HUD)	Nguyễn Đức Hùng	Kinh doanh bất động sản	0100106144
+CÔNG TY TNHH MTV THỨC ĂN THỦY SẢN MEKONG	Đặng Hoàng Phương	Sản xuất, kinh doanh thức ăn chăn nuôi	1401934305
+CÔNG TY CP DINH DƯỠNG HỒNG HÀ	Đỗ Đức Tiến	Sản xuất, kinh doanh thức ăn chăn nuôi	0700220547
+CÔNG TY CP DƯỢC PHẨM THIẾT BỊ Y TẾ HÀ NỘI	Đinh Văn Đông	Kinh doanh, phân phối dược phẩm, thiết bị y tế	0100109699
+NGÂN HÀNG TNHH INDOVINA	Liu Chun Hao	Ngân hàng	0300733752
+CÔNG TY TNHH MAY THÊU THUẬN PHƯƠNG	Mai Đức Thuận	Sản xuất, kinh doanh trang phục	0301339188
+CÔNG TY CP TẬP ĐOÀN HÀ ĐÔ	Nguyễn Trọng Thông	Kinh doanh bất động sản	0100283802
+CÔNG TY TNHH SÀN NHÀ VĨNH DỤ VIỆT NAM	Chen Yong Xing	Sản xuất, kinh doanh gỗ, sản phẩm từ gỗ và nội thất	3702753786
+CÔNG TY CP ĐẦU TƯ PHAN VŨ	Phan Khắc Long	Sản xuất, kinh doanh vật liệu xây dựng	0302217087
+CÔNG TY CP DỊCH VỤ GIAO HÀNG NHANH	Lương Duy Hoài	Bưu chính, chuyển phát	0311907295
+CÔNG TY TNHH SẢN XUẤT CAO SU LIÊN ANH	Đoàn Văn Lực	Sản xuất, kinh doanh cao su và sản phẩm từ cao su	3900308988
+CÔNG TY CP NƯỚC - MÔI TRƯỜNG BÌNH DƯƠNG	Trần Chiến Công	Hoạt động xây dựng khác	3700145694
+CÔNG TY CP TẬP ĐOÀN THIÊN LONG	Trần Phương Nga	Hoạt động công nghiệp khác	0301464830
+CÔNG TY CP SẢN XUẤT KINH DOANH XUẤT NHẬP KHẨU BÌNH THẠNH	Nguyễn Gia Vinh	Hoạt động công nghiệp khác	0302181666
+CÔNG TY CP XÂY DỰNG HỢP LỰC	Trần Ngọc Tân	Xây dựng	0103711478
+CÔNG TY CP ĐẦU TƯ PHÁT TRIỂN CÔNG NGHIỆP VÀ VẬN TẢI	Bùi Thiện Phương Đông	Xây dựng	0300482393
+CÔNG TY CP PHÂN BÓN HÓA CHẤT DẦU KHÍ MIỀN TRUNG	Trịnh Văn Chương	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	4100733174
+CÔNG TY CP HIM LAM	Dương Công Hùng	Kinh doanh bất động sản	0301437499
+CÔNG TY CP KẾT CẤU THÉP ATAD	Nguyễn Lê Anh Tuấn	Xây dựng	1100641143
+CÔNG TY CP ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN	Vương Văn Minh	Kinh doanh bất động sản	0302588596
+CÔNG TY TNHH PHÂN PHỐI TIÊN TIẾN	Trương Quốc Chí	Sản xuất, kinh doanh đồ dùng gia đình	0303549039
+CÔNG TY 4 ORANGES CO.,LTD	La Mỹ Phượng	Sản xuất, kinh doanh hóa chất khác	1100589373
+CÔNG TY CP THƯƠNG MẠI VÀ DỊCH VỤ CUỘC SỐNG VIỆT	Đỗ Tuấn Anh	Sản xuất, chế biến và kinh doanh đường	0101505984
+CÔNG TY CP XÂY DỰNG AN PHONG	Nguyễn Khắc Phong	Xây dựng	0304621513
+CÔNG TY CP CÔNG NGHỆ ELITE	Trần Hoài Phương Chi	Hoạt động thông tin khác	0303853575
+CÔNG TY CỔ PHẦN TẬP ĐOÀN PELIO	Quách Trọng Nguyên	Kinh doanh xăng dầu và các sản phẩm liên quan	3603590788
+CÔNG TY TNHH THƯƠNG MẠI-DV ĐIỆN MẠNH PHƯƠNG	Nguyễn Tâm Mạnh	Sản xuất, kinh doanh thiết bị điện	0301899616
+CÔNG TY CP TẬP ĐOÀN ĐẠT PHƯƠNG	Trần Anh Tuấn	Xây dựng	0101218757
+CÔNG TY TNHH AROMA BAY CANDLES	XU CHENG WEI	Hoạt động công nghiệp khác	0200577517
+TỔNG CÔNG TY CHĂN NUÔI VIỆT NAM - CTCP	Trịnh Quốc Dũng	Chăn nuôi	0100104443
+CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN SẢN XUẤT HẠ LONG (BIM GROUP)	Đoàn Quốc Huy	Kinh doanh bất động sản	5700103433
+CÔNG TY CP THUẬN ĐỨC	Nguyễn Đức Cường	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0900264799
+CÔNG TY TNHH BẢO HIỂM NHÂN THỌ MVI	Randy Lianggara	Bảo hiểm	0105458164
+CÔNG TY CP FECON	Nguyễn Văn Thanh	Hoạt động xây dựng khác	0101502599
+CÔNG TY CP CÔNG NGHIỆP Á MỸ	Đinh Quốc Tuấn	Sản xuất, kinh doanh vật liệu xây dựng	2500552524
+CÔNG TY TNHH NHÀ NƯỚC MTV YẾN SÀO KHÁNH HÒA	Nguyễn Thanh Hải	Sản xuất, chế biến và kinh doanh thực phẩm khác	4200338918
+TỔNG CÔNG TY XÂY DỰNG HÀ NỘI	Đậu Văn Diện	Xây dựng	0100106338
+CÔNG TY CP THỰC PHẨM CHOLIMEX	Diệp Nam Hải	Sản xuất, chế biến và kinh doanh thực phẩm khác	0304475742
+CÔNG TY CP GIỐNG BÒ SỮA MỘC CHÂU	Trần Công Chiến	Sản xuất, chế biến và kinh doanh sữa, sản phẩm từ sữa	5500154060
+CÔNG TY CP VẬN TẢI VÀ XẾP DỠ HẢI AN	Vũ Thanh Hải	Kho bãi, bốc xếp hàng hóa	0103818809
+CÔNG TY TNHH MTV BÒ SỮA VIỆT NAM	Trịnh Quốc Dũng	Chăn nuôi	5000268824
+CÔNG TY CP CHỨNG KHOÁN VIETCAP	Tô Hải	Chứng khoán	0305299779
+CÔNG TY CP SỮA VITADAIRY VIỆT NAM	Nguyễn Thị Hà	Sản xuất, chế biến và kinh doanh sữa, sản phẩm từ sữa	3702652869
+CÔNG TY CP THANH TOÁN ĐIỆN TỬ VNPT	Kim Je Hee	Thông tin – truyền thông	0102713659
+CÔNG TY CP THỦY SẢN VÀ THƯƠNG MẠI THUẬN PHƯỚC	Nguyễn Thị Phi Anh	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	0400100432
+CÔNG TY TNHH DAESANG VIỆT NAM	Shin Sangho	Sản xuất, chế biến và kinh doanh thực phẩm khác	2600109933
+CÔNG TY CP TẬP ĐOÀN HÓA CHẤT NHỰA	Bùi Tố Minh	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0100942205
+CÔNG TY CP XÂY DỰNG THƯƠNG MẠI DU LỊCH HỒNG NGỌC HÀ	Nguyễn Quang Bàng	Du lịch	0301479499
+CÔNG TY CP VẬT LIỆU XÂY DỰNG VÀ CHẤT ĐỐT ĐỒNG NAI	Nguyễn Văn Thông	Kinh doanh xăng dầu và các sản phẩm liên quan	3600661303
+TỔNG CÔNG TY CP BẢO HIỂM PETROLIMEX	Nguyễn Thị Hương Giang	Bảo hiểm	0100110768
+CÔNG TY TNHH XUẤT NHẬP KHẨU - THƯƠNG MẠI - CÔNG NGHỆ - DỊCH VỤ HÙNG DUY	Lê Minh Trúc	Sản xuất, chế biến và kinh doanh gạo, ngũ cốc, sản phẩm nghiền, đồ khô	3900212443
+CÔNG TY TNHH XUÂN LỘC THỌ	Trần Thị Thu Hà	Sản xuất, kinh doanh thiết bị điện	0100736347
+CÔNG TY CP THUẬN HẢI	Dương Thanh Hải	Khai thác, kinh doanh than và hoạt động hỗ trợ	0305601319
+CÔNG TY CP DƯỢC PHẨM TRUNG ƯƠNG CODUPHA	Bùi Hữu Hiền	Kinh doanh, phân phối dược phẩm, thiết bị y tế	0300483319
+CÔNG TY TNHH SUCDEN COFFEE VIỆT NAM	Nguyễn Phú Hải	Sản xuất, chế biến và kinh doanh đồ uống không cồn	6000706357
+CÔNG TY TNHH ĐẦU TƯ BẤT ĐỘNG SẢN DOJI LAND	Đỗ Minh Đức	Kinh doanh bất động sản	0106693273
+NGÂN HÀNG TMCP XĂNG DẦU PETROLIMEX	Phạm Mạnh Thắng	Ngân hàng	1400116233
+CÔNG TY CP MAVIN AUSTFEED	Đào Mạnh Lương	Sản xuất, kinh doanh thức ăn chăn nuôi	0900235251
+CÔNG TY CP ECOBA VIỆT NAM	Võ Tiến Đạt	Xây dựng	0104415496
+CÔNG TY TNHH THƯƠNG MẠI - DỊCH VỤ HAI SÁU SÁU	Nguyễn Thị Hồng Hạnh	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0303781761
+CÔNG TY CP THƯƠNG MẠI XUẤT NHẬP KHẨU THỦ ĐỨC	Ma Đức Tú	Kinh doanh xăng dầu và các sản phẩm liên quan	0301444626
+TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM SÀI GÒN - HÀ NỘI	Nguyễn Văn Trưởng	Bảo hiểm	0103085460
+TỔNG CÔNG TY BẢO HIỂM BIDV	Trần Hoài An	Bảo hiểm	0100931299
+CÔNG TY TNHH ROCHDALE SPEARS	Hoàng Yến	Sản xuất, kinh doanh gỗ, sản phẩm từ gỗ và nội thất	3700370643
+CÔNG TY CP LICOGI 13	Phạm Văn Thăng	Xây dựng	0100106426
+CÔNG TY CP ĐẦU TƯ DU LỊCH VÀ PHÁT TRIỂN THỦY SẢN	Ông Lê Văn Lâm	Hoạt động xây dựng khác	1600895650
+CÔNG TY TNHH KINH DOANH LỐP XE BRIDGESTONE VIỆT NAM	Hiroyuki Saito	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0309875328
+CÔNG TY TNHH BÊ TÔNG VÀ XÂY DỰNG MINH ĐỨC	Tạ Quyết Thắng	Sản xuất, kinh doanh vật liệu xây dựng	0200611969
+CÔNG TY CP ĐẦU TƯ XÂY DỰNG TNCONS VIỆT NAM	Phan Anh Sơn	Xây dựng	0106831501
+CÔNG TY CP CAMIMEX GROUP	Nguyễn An Ninh	Sản xuất, chế biến và kinh doanh thực phẩm tươi sống, đông lạnh	2000103908
+CÔNG TY CP CHỨNG KHOÁN KIS VIỆT NAM	Pank Won Sang	Chứng khoán	0305066125
+CÔNG TY CP KỸ THƯƠNG THIÊN HOÀNG	Phạm Bách Tùng	Sản xuất, kinh doanh vật liệu xây dựng	0101272578
+CÔNG TY CP VẬT TƯ NÔNG SẢN	Nguyễn Tiến Dũng	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	0100104066
+CÔNG TY CỔ PHẦN QUỐC TẾ L'AMANT	Phan Thị Kim Oanh	Sản xuất, chế biến và kinh doanh đồ uống không cồn	5901056448
+TỔNG CÔNG TY HÓA CHẤT VÀ DỊCH VỤ DẦU KHÍ - CTCP	Phan Công Thành	Thăm dò, khai thác dầu mỏ và hoạt động hỗ trợ	0100150873
+CÔNG TY CP THỰC PHẨM Á CHÂU	Nguyễn Mạnh Hà	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	3700150020
+CÔNG TY CỔ PHẦN LIÊN DOANH KANGAROO QUỐC TẾ	Lê Xuân Hoàn	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0901095455
+CÔNG TY CP THỰC PHẨM AN LONG	Huỳnh Tuân Phương Mai	Sản xuất, chế biến và kinh doanh dầu ăn, mỡ động thực vật	1100814572
+CÔNG TY CP SẢN XUẤT VÀ CÔNG NGHỆ NHỰA PHA LÊ	Mai Thanh Phương - Chủ tịch HĐQT	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0103018538
+CÔNG TY CP KỸ THUẬT CÔNG NGHIỆP Á CHÂU	Phạm Đình Thắng	Sản xuất, kinh doanh thiết bị điện	0102073536
+CÔNG TY CP XUẤT NHẬP KHẨU THIÊN Á	Phan Thanh Tùng	Sản xuất, kinh doanh máy móc, sản phẩm cơ khí khác	0101726782
+CÔNG TY CP ĐẦU TƯ BẤT ĐỘNG SẢN TASECO	Nguyễn Trần Tùng	Kinh doanh bất động sản	0104079036
+CÔNG TY CP BỘT GIẶT LIX	Cao Thành Tín	Sản xuất, kinh doanh hóa mỹ phẩm	0301444263
+CÔNG TY CP RẠNG ĐÔNG HOLDING	Hồ Đức Lam	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0300384357
+CÔNG TY TNHH MAY MẶC LEADING STAR VIỆT NAM	Vũ Thị Hoa	Sản xuất, kinh doanh trang phục	3702412200
+TỔNG CÔNG TY GIẤY VIỆT NAM	.	Sản xuất, kinh doanh giấy và các sản phẩm từ giấy	2600357502
+CÔNG TY CP KIM KHÍ MIỀN TRUNG	Nguyễn Anh Hoàng	Kinh doanh kim loại, sắt thép, kim khí…	0400101605
+TẬP ĐOÀN GELEXIMCO - CTCP	Vũ Văn Tiền	Kinh doanh bất động sản	0100514947
+CÔNG TY CP TẬP ĐOÀN CIENCO4	Nguyễn Tuấn Huỳnh	Xây dựng	2900324850
+TỔNG CÔNG TY VẬN TẢI HÀ NỘI	Nguyễn Thanh Nam	Vận tải đường bộ	0101148154
+CÔNG TY TNHH THƯƠNG MẠI QUANG DŨNG	Diệp Hữu Linh Lan	Sản xuất, kinh doanh thức ăn chăn nuôi	0301629955
+TỔNG CÔNG TY CÔNG NGHIỆP THỰC PHẨM ĐỒNG NAI - MTV CÔNG TY TNHH	Nguyễn Thị Lệ Hồng	Sản xuất, chế biến và kinh doanh thuốc lá	3600253505
+CÔNG TY CP TẬP ĐOÀN ĐỨC TƯỜNG	Nguyễn Thị Quý	Sản xuất, kinh doanh thiết bị điện	1701884951
+CÔNG TY TNHH B.BRAUN VIỆT NAM	Torben Minko	Sản xuất dược phẩm, thiết bị y tế	0100114064
+CÔNG TY TNHH THỨC ĂN GIA SÚC LÁI THIÊU	Nguyễn Thị Kim Anh	Sản xuất, kinh doanh thức ăn chăn nuôi	3700149709
+CÔNG TY CP PHÂN BÓN VÀ HÓA CHẤT DẦU KHÍ MIỀN BẮC	Cao Trung Kiên	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	0102886450
+CÔNG TY TNHH VẬN TẢI BIỂN VÀ XUẤT NHẬP KHẨU HTK	Vũ Minh Hiền	Vận tải đường biển	0200458573
+CÔNG TY CP EUROWINDOW	Nguyễn Cảnh Hồng	Sản xuất, kinh doanh vật liệu xây dựng	2500217526
+CÔNG TY CP DỊCH VỤ HÀNG HẢI HÀNG KHÔNG CON CÁ HEO	Trần Đăng Nam	Hoạt động khác hỗ trợ cho vận tải	0305358801
+CÔNG TY CP THIẾT BỊ ĐIỆN PHƯỚC THẠNH	Phạm Văn Đông	Sản xuất, kinh doanh thiết bị điện	1100793386
+CÔNG TY TNHH THƯƠNG MẠI VÀ VẬN TẢI THÁI TÂN	Nguyễn Thanh Nga	Bán lẻ khác	0101188943
+CÔNG TY TNHH HÙNG CÁ	Trần Văn Hùng	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	1400528082
+CÔNG TY CP CHỨNG KHOÁN TIÊN PHONG	Diệp Trí Minh	Chứng khoán	0304814339
+CÔNG TY CP TẬP ĐOÀN NHỰA BÌNH THUẬN	Nguyễn Chí Thức	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0101775116
+TỔNG CÔNG TY CP BẢO HIỂM NGÂN HÀNG TMCP CÔNG THƯƠNG VIỆT NAM	Nguyễn Huy Quang	Bảo hiểm	0101335193
+CÔNG TY CP CƠ ĐIỆN TRẦN PHÚ	Đặng Quốc Chính	Sản xuất, kinh doanh thiết bị điện	0100106063
+CÔNG TY CP KHO VẬN MIỀN NAM	Đặng Vũ Thành	Kho bãi, bốc xếp hàng hóa	0300645369
+CÔNG TY CP ĐỒNG TÂM	Nguyễn Văn Hùng	Sản xuất, kinh doanh vật liệu xây dựng	1100548578
+CÔNG TY CP HÓA CHẤT NHỰA ĐÀ NẴNG	Nguyễn Văn Phục	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0400432621
+CÔNG TY TNHH CHỨNG KHOÁN MIRAE ASSET (VIỆT NAM)	Kang Moon Kyung	Chứng khoán	0305389969
+CÔNG TY TNHH XÂY DỰNG TUẤN LÊ	Lê Anh Tuấn	Xây dựng	0307859271
+CÔNG TY CP TẬP ĐOÀN C.E.O	Đoàn Văn Minh	Kinh doanh bất động sản	0101183550
+CÔNG TY TNHH MTV DỊCH VỤ LỮ HÀNH SAIGONTOURIST	Nguyễn Thành Lưu	Du lịch	0310891532
+CÔNG TY TNHH BAO BÌ VIỆT HƯNG	Hoàng Gia Hưng	Sản xuất, kinh doanh giấy và các sản phẩm từ giấy	0900232469
+CÔNG TY CP CAO SU PHƯỚC HÒA	Nguyễn Văn Tược	Trồng trọt	3700147532
+CÔNG TY TNHH MTV DƯỢC SÀI GÒN	Lê Việt Hùng	Kinh doanh, phân phối dược phẩm, thiết bị y tế	0300523385
+TỔNG CÔNG TY CP BẢO HIỂM HÀNG KHÔNG	Trần Trọng Dũng	Bảo hiểm	0102737963
+CÔNG TY CP ĐẦU TƯ VÀ KINH DOANH THÉP NHÂN LUẬT	Phan Châu Luật	Kinh doanh kim loại, sắt thép, kim khí…	0400102616
+CÔNG TY CP VẬN TẢI BIỂN VIỆT NAM	Cao Minh Tuấn	Vận tải đường biển	0200106490
+CÔNG TY CP CẢNG HẢI PHÒNG	Nguyễn Tường Anh	Kho bãi, bốc xếp hàng hóa	0200236845
+CÔNG TY TNHH THIẾT BỊ ĐIỆN LIOA	Nguyễn Chí Linh	Sản xuất, kinh doanh thiết bị điện	0900246535
+CÔNG TY CP ĐẦU TƯ DỊCH VỤ TÀI CHÍNH HOÀNG HUY	Trần Thị Hoàng Hà	Sản xuất, kinh doanh ô tô, xe máy, xe có động cơ và phụ kiện	0200117929
+CÔNG TY TNHH MTV XUẤT NHẬP KHẨU THỰC PHẨM HẠ LONG	Trương Đình Tùng	Sản xuất, chế biến và kinh doanh thực phẩm tươi sống, đông lạnh	0304362097
+CÔNG TY CP DƯỢC PHẨM VIỆT HÀ	Nguyễn Minh Sơn	Kinh doanh, phân phối dược phẩm, thiết bị y tế	0302375710
+CÔNG TY TNHH HOÀNG ĐẠI VƯƠNG	Nguyễn Đức Hậu	Sản xuất, kinh doanh giấy và các sản phẩm từ giấy	3600697236
+CÔNG TY TNHH KHẢI THỪA VIỆT NAM	Phạm Thị Quyên	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	2400393373
+CÔNG TY TNHH MTV TỔNG CÔNG TY THÁI SƠN	Phạm Gặp	Kinh doanh bất động sản	0300533471
+CÔNG TY TNHH BEST PACIFIC VIỆT NAM	Zhang Haitao	Sản xuất, kinh doanh sợi, sản phẩm dệt	0801153061
+CÔNG TY CP THỦY SẢN SẠCH VIỆT NAM	Võ Văn Phục	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	2200325351
+CÔNG TY TNHH LIÊN DOANH STELLAPHARM	Ông Văn Dũng	Sản xuất dược phẩm, thiết bị y tế	0302737671
+CÔNG TY CP SAM HOLDINGS	Trần Việt Anh	Sản xuất, kinh doanh thiết bị điện	3600253537
+MINH HƯNG GROUP	Phạm Tú Anh	Sản xuất, kinh doanh hóa chất khác	1200748517
+CÔNG TY TNHH PHÁT TÀI	Lê Phát Long	Sản xuất, chế biến và kinh doanh gạo, ngũ cốc, sản phẩm nghiền, đồ khô	1400105785
+CÔNG TY CỔ PHẦN TÔN THÉP VIỆT PHÁP	Mai Minh Nguyệt	Kinh doanh kim loại, sắt thép, kim khí…	0107675502
+CÔNG TY TNHH NHÀ THÉP PEB	Sami Nour Kteily	Sản xuất, kinh doanh máy móc, sản phẩm cơ khí khác	3500684522
+CÔNG TY CP XNK THỦY SẢN CỬU LONG	Trần Tuấn Khải	Sản xuất, chế biến và kinh doanh thực phẩm đóng gói, ăn liền, đồ hộp	1400571715
+TỔNG CÔNG TY ĐẦU TƯ PHÁT TRIỂN HẠ TẦNG ĐÔ THỊ UDIC - CÔNG TY TNHH MTV	Nguyễn Văn Luyến	Xây dựng	0100106232
+CÔNG TY TNHH CỎ MAY LAI VUNG	Phan Minh Thiện	Sản xuất, kinh doanh thức ăn chăn nuôi	1401598685
+CÔNG TY CP TRAPHACO	Trần Túc Mã	Sản xuất dược phẩm, thiết bị y tế	0100108656
+CÔNG TY TNHH CƠ KHÍ XÂY DỰNG DST VIỆT NAM	Nguyễn Mạnh Hùng	Sản xuất, gia công kim loại, sắt thép, kim khí…	0106462325
+CÔNG TY CP XUẤT NHẬP KHẨU HÀ ANH	Nguyễn Thị Tiêu	Sản xuất, kinh doanh phân bón, thuốc trừ sâu	0101328911
+CÔNG TY TNHH VẬN CHUYỂN HÀNG HÓA HÀNG KHÔNG TOÀN CẦU VIỆT NAM	Faux Benjamin	Hoạt động khác hỗ trợ cho vận tải	0311124463
+CÔNG TY CP CÔNG NGHIỆP NHỰA PHÚ LÂM	Huang Cheng Hung	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0200109445
+CÔNG TY CP TẬP ĐOÀN LONG HẢI	Đỗ Đức Tiến	Sản xuất, kinh doanh trang phục	0100229499
+CÔNG TY CP DỊCH VỤ & KỸ THUẬT CƠ ĐIỆN LẠNH R.E.E	Phạm Công Pháp	Hoạt động xây dựng khác	0302660700
+CÔNG TY CP XÂY DỰNG CDC	Trần Văn Trường	Xây dựng	0105283073
+CÔNG TY CP ĐẦU TƯ VĂN PHÚ - INVEST	Triệu Hữu Đại	Kinh doanh bất động sản	0102702590
+CÔNG TY CP CÔNG NGHIỆP - DỊCH VỤ - THƯƠNG MẠI NGỌC NGHĨA	Sunil Marwah	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0301427028
+CÔNG TY CP SCI E&C	Nguyễn Công Hùng	Xây dựng	0500574676
+CÔNG TY TNHH SUNGWOO VINA	Pack Jounggeun	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	2300530192
+CÔNG TY CP TẬP ĐOÀN NHỰA ĐÔNG Á	Nguyễn Bá Hùng	Sản xuất, kinh doanh nhựa và sản phẩm từ nhựa	0101099228
+CÔNG TY CP ĐƯỜNG KHÁNH HÒA	Đỗ Thành Liêm	Sản xuất, chế biến và kinh doanh đường	4200239089
+CÔNG TY SHELL VIỆT NAM TNHH	Darren Graham Mcpherson	Kinh doanh xăng dầu và các sản phẩm liên quan	3600524089
+CÔNG TY CP MÁY TÍNH VĨNH XUÂN	Ngô Thị Kim Ngân	Sản xuất, kinh doanh thiết bị điện tử, điện lạnh, công nghệ thông tin, viễn thông…	0100516045
+CÔNG TY CP VINACAFÉ BIÊN HÒA	Đoàn Quốc Hưng	Sản xuất, chế biến và kinh doanh đường	3600261626
+TỔNG CÔNG TY CHUYỂN PHÁT NHANH BƯU ĐIỆN - CTCP	Hà Thị Hòa	Bưu chính, chuyển phát	0101826868

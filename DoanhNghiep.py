@@ -1,7 +1,7 @@
 import csv
 import random
 
-import psycopg2
+# import psycopg2
 import requests
 from selenium import webdriver
 from selenium.common import ElementNotInteractableException
@@ -102,45 +102,45 @@ if __name__ == "__main__":
         time.sleep(10)
 
         # Connect Database
-        hostnamne = 'localhost'
-        database = 'test'
-        username = 'postgres'
-        pwd = '343251679'
-        port_id = '5432'
+        # hostnamne = 'localhost'
+        # database = 'test'
+        # username = 'postgres'
+        # pwd = '343251679'
+        # port_id = '5432'
 
-        try:
-            conn = psycopg2.connect(
-                host=hostnamne,
-                dbname=database,
-                user=username,
-                password=pwd,
-                port=port_id)
-        except Exception as error:
-            print(error)
-            conn.rollback()  # Rollback nếu có lỗi kết nối
-            exit()  # Thoát chương trình nếu kết nối thất bại
+        # try:
+        #     conn = psycopg2.connect(
+        #         host=hostnamne,
+        #         dbname=database,
+        #         user=username,
+        #         password=pwd,
+        #         port=port_id)
+        # except Exception as error:
+        #     print(error)
+        #     conn.rollback()  # Rollback nếu có lỗi kết nối
+        #     exit()  # Thoát chương trình nếu kết nối thất bại
 
-        cur = conn.cursor()
+        # cur = conn.cursor()
 
         # Thêm dữ liệu vào PostgreSQL
-        output_file_path = os.path.join(data_folder_path, 'output_data.csv')
-        with open(output_file_path, 'r', encoding='utf-8') as csvfile:
-            reader = csv.reader(csvfile)
-            next(reader)  # Bỏ qua dòng tiêu đề (nếu có)
+        # output_file_path = os.path.join(data_folder_path, 'output_data.csv')
+        # with open(output_file_path, 'r', encoding='utf-8') as csvfile:
+        #     reader = csv.reader(csvfile)
+        #     next(reader)  # Bỏ qua dòng tiêu đề (nếu có)
 
-            for row in reader:
-                if len(row) >= 4:
-                    cur.execute(
-                        "INSERT INTO doanhnghiepvn7(name, ceo, industry, tax) VALUES (%s, %s, %s, %s)",
-                        (row[0], row[1], row[2], row[3])
-                    )
-                else:
-                    print(f"Skipping row {row}, does not have enough columns.")
+        #     for row in reader:
+        #         if len(row) >= 4:
+        #             cur.execute(
+        #                 "INSERT INTO doanhnghiepvn7(name, ceo, industry, tax) VALUES (%s, %s, %s, %s)",
+        #                 (row[0], row[1], row[2], row[3])
+        #             )
+        #         else:
+        #             print(f"Skipping row {row}, does not have enough columns.")
 
 
 
-            conn.commit()
-            cur.close()
-            conn.close()
+        #     conn.commit()
+        #     cur.close()
+        #     conn.close()
 
     driver.close()  # nhớ phải đóng lại nhé
